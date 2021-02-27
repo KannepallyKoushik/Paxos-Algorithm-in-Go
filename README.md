@@ -27,7 +27,7 @@ There are also learners, who checks if a quorum (lets say a majority) of accepte
 
 ## Execution
 1. Open 6 Terminals(command prompt) and move to the directory where we have **server.go** files (Or place each server.go file in distinct computers which are in same network)
-2. Run each server.go file is seperate terminals immidiately one after the other(We have 5 server.go files with numbering as such)
+2. Run each server.go file in seperate terminals immediately one after the other(We have 5 server.go files with numbering as such)
 3. Now in 6th Terminal traverse to client folder and run client.go file
 ```command to run : go run filename.go```
 4. It is a menu driven application where We have to send request through client terminal and Consensus Algorithm starts working
